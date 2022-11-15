@@ -51,4 +51,5 @@ int main()
     avg_tat = (float)total / n;
     printf("Average Waiting Time= %f", avg_wt);
     printf("\nAverage Turnaround Time= %f", avg_tat);
+    print("123333");
 }
